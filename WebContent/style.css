@@ -1,0 +1,15 @@
+body {
+	font-size: 12px;
+	font-color: #03012e;
+	font-family: verdana;
+}
+
+div {
+	width:80%;
+	margin-left: 10%;
+	margin-top: 10px;
+}
+
+#error {
+	color: red;
+}
